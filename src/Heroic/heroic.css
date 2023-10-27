@@ -1,0 +1,18 @@
+/* Heroic.css */
+.heroic-section {
+    background: #4d56a9;
+    text-align: center;
+    padding: 80px;
+    margin-top: 30px;
+  }
+  
+  .heroic-section h1 {
+    font-size: 36px;
+    color: #333;
+  }
+  
+  .heroic-section p {
+    font-size: 18px;
+    color: #555;
+  }
+  
